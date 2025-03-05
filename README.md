@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abedammar98
 - 👀 I’m interested in building client servers that corresponds data bases  
-- 🌱 I’m currently learning software engineer 3rd year last update
+- 🌱 I’m currently learning software engineer last year , last update
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email abedamar197@gmail.com , linkedin abed ammar
 - ⚡ Fun fact: fact are fun :) 
